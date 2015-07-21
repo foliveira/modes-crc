@@ -14,7 +14,7 @@
   ],
   "author": "Fábio Oliveira",
   "repository": "https://github.com/flightrac/modes-crc",
-  "license": "MIT",
+  "license": "BSD-3-Clause",
   "devDependencies": {
     "jscs": "^1.13.1",
     "pre-commit": "^1.0.7",
